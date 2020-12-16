@@ -1,4 +1,8 @@
 # vid2pic
 
 
-This python script can generate .gif, .apng (animated png) and .webp files from video. To run it FFmpeg has to be installed and included in the path variable. 
+This python script can generate .gif, .apng (animated png) and .webp files from video. To run it, Python 3.x and FFmpeg have to be installed and included in the path variable. 
+
+  ### screenshots:
+
+  ![alt text](https://github.com/KonradJuenger/vid2pic/blob/main/readmeImages/v4GoHd6Vkn.png)
