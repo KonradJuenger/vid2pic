@@ -6,3 +6,10 @@ This python script can generate .gif, .apng (animated png) and .webp files from 
   ### screenshots:
 
   ![alt text](https://github.com/KonradJuenger/vid2pic/blob/main/readmeImages/v4GoHd6Vkn.png)
+  
+  ![alt text](https://github.com/KonradJuenger/vid2pic/blob/main/readmeImages/FYmrOsTkhs.png)
+  
+  ![alt text](https://github.com/KonradJuenger/vid2pic/blob/main/readmeImages/Z7Elby4HFI.png)
+  
+  ![alt text](https://github.com/KonradJuenger/vid2pic/blob/main/readmeImages/QPiTQR1JuE.png)
+
