@@ -219,7 +219,7 @@ def genCodecFlags(settings):
 
 
 def askForMode():
-    inputStr = input("\nChose a output format: \n0 = png frames \n1 = animated png (apng) \n2 = gif \n3 = webp \nor press RETURN to use the default of webp\n- ")
+    inputStr = input("\nChoose a output format: \n0 = png frames \n1 = animated png (apng) \n2 = gif \n3 = webp \nor press RETURN to use the default of webp\n- ")
     if inputStr == '\n' or inputStr == '\r' or inputStr == '' or inputStr == 'n' :
         return "webp"
     elif inputStr.isnumeric() and int(inputStr) == 0:
